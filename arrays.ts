@@ -23,3 +23,5 @@ carMakers.map((car: string): string => {
   return car; 
 })
 
+//Flexible types (string | Date)[]
+const importantDates = [new Date(), '2020-12-23']; 
