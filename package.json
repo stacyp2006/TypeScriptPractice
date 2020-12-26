@@ -19,6 +19,7 @@
   "homepage": "https://github.com/stacyp2006/TypeScriptPractice#readme",
   "dependencies": {
     "@types/faker": "^5.1.5",
+    "@types/googlemaps": "^3.43.0",
     "axios": "^0.21.0",
     "faker": "^5.1.0"
   },
